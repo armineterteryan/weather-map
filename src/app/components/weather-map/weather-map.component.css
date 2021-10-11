@@ -1,0 +1,30 @@
+input{
+  margin-right: 10px;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: "Space Grotesk", Arial, serif;
+  font-weight: lighter;
+  display: block;
+  font-size: 2em;
+}
+
+.container {
+  border-color: coral;
+  border-width: 1px;
+  line-height: 2;
+  margin: 10px;
+}
+
+.date {
+  color: #f69e56;
+  margin-bottom: 0;
+}
+
+.center {
+  margin: auto;
+  width: 20%;
+  border: 3px solid #db6464;
+  padding: 10px;
+}
